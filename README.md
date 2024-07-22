@@ -1,3 +1,3 @@
 # pythons-labs-
-my name is haris and i am pugc student 
-my father name is mian faheem hussain 
+my name is haris 
+/n I am pugc student
